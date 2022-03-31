@@ -22,4 +22,5 @@ This project is the basic idea of how JsonPowerDB can be used to perform operati
 
 <b>Release History (release of your JsonPowerDB related code on Github)
 </b><br>
+Version 1
 
