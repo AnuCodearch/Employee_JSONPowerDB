@@ -20,7 +20,7 @@ This project is the basic idea of how JsonPowerDB can be used to perform operati
 <li>Load balancing</li>
 </ul>
 
-<h3>Release History (release of your JsonPowerDB related code on Github)</h3>
+<h3>Release History</h3>
 Version 1
 
 <h3>Screenshot of Database</h3>
