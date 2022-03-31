@@ -1,12 +1,12 @@
 # Employee_JSONPowerDB
 
-<b>What is JsonPowerDB?</b><br>
+<h3>What is JsonPowerDB?</h3>
 In simple words, JsonPowerDB is a <b>Database Server</b> with developer friendly REST API services.
 
-<b>Description</b><br>
+<h3>Description</h3>
 This project is the basic idea of how JsonPowerDB can be used to perform operations through API.
 
-<b>Benefits of using JsonPowerDB</b><br>
+<h3>Benefits of using JsonPowerDB</h3>
 <ul>
 <li>Simple way to get data in JSON format</li>
 <li>Schema-free</li>
@@ -20,8 +20,8 @@ This project is the basic idea of how JsonPowerDB can be used to perform operati
 <li>Load balancing</li>
 </ul>
 
-<b>Release History (release of your JsonPowerDB related code on Github)</b><br>
+<h3>Release History (release of your JsonPowerDB related code on Github)</h3>
 Version 1
 
-<b>Screenshot of Database</b><br>
+<h3>Screenshot of Database</h3>
 ![Untitled](https://user-images.githubusercontent.com/77207568/161116395-6cedc0d1-a090-4ed0-8eed-1513a5f4daf6.png)
